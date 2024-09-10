@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ESz3D7QmTU=",
+  "dgSpecHash": "O3KQf9xNX74=",
   "success": true,
-  "projectFilePath": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj",
+  "projectFilePath": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\Github\\LNNg_web\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NGUYEN\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\NGUYEN\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
