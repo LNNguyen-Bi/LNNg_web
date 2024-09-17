@@ -27,11 +27,66 @@ namespace BaiTap07.Controllers
         [HttpPost]
         public IActionResult Create(TheLoai theloai)
         {
-            // Thêm thông tin vào bảng TheLoai
-            _db.theLoai.Add(theloai);
-            // Lưu lại
-            _db.SaveChanges();
+            if (ModelState.IsValid)
+            {
+                // Thêm thông tin vào bảng TheLoai
+                _db.theLoai.Add(theloai);
+                // Lưu lại
+                _db.SaveChanges();
+                return RedirectToAction("Index");
+            }   
             return View();
+            
+        }
+
+        [HttpGet]
+        public IActionResult Edit(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+            var theloai = _db.theLoai.Find(id);
+            return View(theloai);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(TheLoai theloai)
+        {
+            if (ModelState.IsValid)
+            {
+                // Thêm thông tin vào bảng TheLoai
+                _db.theLoai.Update(theloai);
+                // Lưu lại
+                _db.SaveChanges();
+                // Chuyển trang về index
+                return RedirectToAction("Index");
+            }
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+            var theloai = _db.theLoai.Find(id);
+            return View(theloai);
+        }
+
+        [HttpPost]
+        public IActionResult DeleteConfirm(int id)
+        {
+            var theloai = _db.theLoai.Find(id);
+            if (theloai == null)
+            {
+                return NotFound();
+            }
+            _db.theLoai.Remove(theloai);
+            _db.SaveChanges();
+            return RedirectToAction("Index");
         }
     }
 }
