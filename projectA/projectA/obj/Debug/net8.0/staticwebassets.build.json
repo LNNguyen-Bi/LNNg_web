@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9MkWrTc8L7v1xPdufvDj8KfO6VxHVAx/JHOcpe12Etc=",
+  "Hash": "SdVtdeL62kokrhW4MRhpDaI/apgTUK+Js+HKKQlZPU8=",
   "Source": "projectA",
   "BasePath": "_content/projectA",
   "Mode": "Default",
@@ -1252,12 +1252,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\wwwroot\\img\\3.png",
+      "Identity": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\wwwroot\\img\\LOGO.png",
       "SourceId": "projectA",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\wwwroot\\",
       "BasePath": "_content/projectA",
-      "RelativePath": "img/3.png",
+      "RelativePath": "img/LOGO.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1268,7 +1268,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\3.png"
+      "OriginalItemSpec": "wwwroot\\img\\LOGO.png"
     },
     {
       "Identity": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\wwwroot\\js\\1.js",
