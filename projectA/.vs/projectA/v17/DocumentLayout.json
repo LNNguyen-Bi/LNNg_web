@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,19 +26,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "projectA\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Controllers\\HomeController.cs",
               "RelativeToolTip": "projectA\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:47:04.085Z"
+              "WhenOpened": "2024-10-14T08:47:04.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -54,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
               "RelativeDocumentMoniker": "projectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
@@ -67,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "projectA\\Views\\Shared\\_Layout.cshtml",
@@ -75,8 +76,7 @@
               "RelativeToolTip": "projectA\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAHkBAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T07:01:58.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T07:01:58.692Z"
             }
           ]
         }
