@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G4Iq6KoJOaw=",
+  "dgSpecHash": "J3BruspAaDM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\NGUYEN\\Desktop\\BaiKiemTra03_02\\BaiKiemTra03_02\\BaiKiemTra03_02.csproj",
+  "projectFilePath": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\Github\\LNNg_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\BaiKiemTra03_02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NGUYEN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\NGUYEN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

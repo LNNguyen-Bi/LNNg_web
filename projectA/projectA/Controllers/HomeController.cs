@@ -4,15 +4,13 @@ using projectA.Data;
 using projectA.Models;
 using System.Diagnostics;
 
-namespace projectA.Areas.Customer.Controllers
+namespace projectA.Controllers
 {
     [Area("Customer")]
     public class HomeController : Controller
     {
-
         private readonly ILogger<HomeController> _logger;
         private readonly ApplicationDbContext _db;
-
         public HomeController(ILogger<HomeController> logger, ApplicationDbContext db)
         {
             _logger = logger;
@@ -21,8 +19,7 @@ namespace projectA.Areas.Customer.Controllers
 
         public IActionResult Index()
         {
-            IEnumerable<SanPhamViewModel> sanpham = _db.SanPham.Include(sp => sp.TheLoai).ToList();
-
+            IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai").ToList();
             return View(sanpham);
         }
 
@@ -35,6 +32,16 @@ namespace projectA.Areas.Customer.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            SanPham sanpham = new SanPham();
+
+            sanpham = _db.SanPham.Include(sp => sp.TheLoai).FirstOrDefault(sp => sp.Id == id);
+
+            return View(sanpham);
         }
     }
 }
