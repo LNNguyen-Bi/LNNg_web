@@ -7,32 +7,16 @@
       "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\migrations\\20241010084608_1234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\migrations\\20241010084608_1234.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|c:\\users\\nguyen\\desktop\\cntt\\laptrinhweb\\bailam\\projecta\\projecta\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,39 +30,42 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20241010084608_1234.cs",
-              "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Migrations\\20241010084608_1234.cs",
-              "RelativeDocumentMoniker": "projectA\\Migrations\\20241010084608_1234.cs",
-              "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Migrations\\20241010084608_1234.cs",
-              "RelativeToolTip": "projectA\\Migrations\\20241010084608_1234.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "projectA\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "projectA\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T08:46:08.172Z"
+              "WhenOpened": "2024-10-14T08:47:04.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "projectA\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T07:38:28.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\appsettings.json",
-              "RelativeDocumentMoniker": "projectA\\appsettings.json",
-              "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\appsettings.json",
-              "RelativeToolTip": "projectA\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-10T08:44:56.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "projectA\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "projectA\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "RelativeToolTip": "projectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T07:11:37.86Z"
+              "WhenOpened": "2024-10-14T07:33:28.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,58 +75,10 @@
               "RelativeDocumentMoniker": "projectA\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "projectA\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwCQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-08T07:01:58.692Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "projectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "projectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowFgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T07:00:47.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "RelativeDocumentMoniker": "projectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "RelativeToolTip": "projectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T06:38:21.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SanPham.cs",
-              "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Models\\SanPham.cs",
-              "RelativeDocumentMoniker": "projectA\\Models\\SanPham.cs",
-              "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Models\\SanPham.cs",
-              "RelativeToolTip": "projectA\\Models\\SanPham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T06:29:13.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "projectA\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\NGUYEN\\Desktop\\CNTT\\laptrinhweb\\bailam\\projectA\\projectA\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "projectA\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswCUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T06:10:21.645Z"
             }
           ]
         }
